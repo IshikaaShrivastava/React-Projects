@@ -1,1 +1,1 @@
-Learn Reactr add
+Learn React
